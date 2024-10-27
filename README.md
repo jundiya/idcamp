@@ -1,5 +1,5 @@
-# Learning
-**1. IDCamp 2024 - Data Science - Dicoding**
+# IDCamp 2024
+**1. Data Science - Dicoding**
 -  Basic Data Science
 -  Basic Structured Query Language (SQL)
 -  Programming with Python
