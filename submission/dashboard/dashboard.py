@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 
 # Read csv file
-df = pd.read_csv('merged_dataset.csv')
+df = pd.read_csv('submission/dashboard/merged_dataset.csv')
 
 # Add datetime column
 df['datetime'] = pd.to_datetime(df[['year', 'month', 'day', 'hour']])
